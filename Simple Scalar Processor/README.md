@@ -16,7 +16,7 @@ CS22B073_CS22B070_LAB8
 
 To compile and run the code, follow these steps:
 
-1. Navigate to the `CS22B073_CS22B070_LAB8` directory in your terminal.
+1. Navigate to the directory containig above files in your terminal.
 
 2. Run the following command to compile the code:
 
