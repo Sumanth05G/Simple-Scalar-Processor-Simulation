@@ -3,13 +3,21 @@
 ## Directory Structure
 CS22B073_CS22B070_LAB8
 ├── input
+
 │   ├── ICache.txt
+
 │   ├── DCache.txt
+
 │   └── RF.txt
+
 ├── output
+
 │   ├── DCache.txt
+
 │   └── Output.txt
+
 ├── main.cpp
+
 └── README.md
 
 ## Instructions to Run and Execute the Code
