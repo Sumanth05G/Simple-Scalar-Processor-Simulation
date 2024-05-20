@@ -1,7 +1,9 @@
 # LAB8 Submission - CS22B073 & CS22B070
 
 ## Directory Structure
+
 CS22B073_CS22B070_LAB8
+
 ├── input
 
 │   ├── ICache.txt
