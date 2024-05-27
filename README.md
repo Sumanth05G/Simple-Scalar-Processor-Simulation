@@ -7,3 +7,5 @@ Program's instructions and data should be filled in "ICache.txt" and "DCache.txt
 Then compile the main.cpp and execute.
 
 output.txt will have information regarding hazards and updated DCache is also present in output directory.
+
+Exact Problem Statement is in "Problem_Statement.pdf"
